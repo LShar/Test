@@ -1,0 +1,42 @@
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\bin\Debug\Avery.exe.config
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\bin\Debug\Avery.exe
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\bin\Debug\Avery.pdb
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\obj\Debug\Avery.MainTool.resources
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\obj\Debug\Avery.Properties.Resources.resources
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\obj\Debug\Avery.SelectionScreen.resources
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\obj\Debug\Avery.csproj.GenerateResource.Cache
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\obj\Debug\Avery.exe
+C:\Users\shar\documents\visual studio 2012\Projects\Avery\Avery\obj\Debug\Avery.pdb
+C:\Users\admin\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.exe.config
+C:\Users\admin\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.exe
+C:\Users\admin\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.pdb
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.MainTool.resources
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.Properties.Resources.resources
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SelectionScreen.resources
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SubToolForm.resources
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.exe
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.pdb
+C:\Users\admin\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csprojResolveAssemblyReference.cache
+C:\Users\shar\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.exe.config
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.exe
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.pdb
+C:\Users\shar\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.exe
+C:\Users\shar\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.pdb
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csprojResolveAssemblyReference.cache
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.MainTool.resources
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.Properties.Resources.resources
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SelectionScreen.resources
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SubToolForm.resources
+C:\Users\shar\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csproj.GenerateResource.Cache
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.exe.config
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.exe
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\bin\Debug\Avery.pdb
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csprojResolveAssemblyReference.cache
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.MainTool.resources
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.Properties.Resources.resources
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SelectionScreen.resources
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SubToolForm.resources
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csproj.GenerateResource.Cache
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.exe
+D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.pdb

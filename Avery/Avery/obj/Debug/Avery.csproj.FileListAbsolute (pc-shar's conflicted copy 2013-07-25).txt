@@ -1,0 +1,9 @@
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\bin\Debug\Avery.exe.config
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\bin\Debug\Avery.exe
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\bin\Debug\Avery.pdb
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\obj\Debug\Avery.MainTool.resources
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\obj\Debug\Avery.Properties.Resources.resources
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\obj\Debug\Avery.SelectionScreen.resources
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\obj\Debug\Avery.csproj.GenerateResource.Cache
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\obj\Debug\Avery.exe
+C:\Users\shar\Documents\Visual Studio 2012\Projects\Avery\Avery\obj\Debug\Avery.pdb
