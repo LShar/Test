@@ -40,3 +40,6 @@ D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.SubToolForm.resource
 D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.csproj.GenerateResource.Cache
 D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.exe
 D:\DropBoxSync\Dropbox\Projects\Avery\Avery\obj\Debug\Avery.pdb
+D:\Programming\Repositories\Test\Avery\Avery\bin\Debug\Avery.exe.config
+D:\Programming\Repositories\Test\Avery\Avery\obj\Debug\Avery.exe
+D:\Programming\Repositories\Test\Avery\Avery\obj\Debug\Avery.pdb
